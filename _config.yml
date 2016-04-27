@@ -1,7 +1,7 @@
 name: luvlab
 favicon: null
-layout_spectrum: 0.02173920627683401
-typography_spectrum: 0.9594320324249566
+layout_spectrum: 1
+typography_spectrum: 0.49979
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4726253708358854
-  lightness: 0.43078826600685716
-  saturation: 0.20400779484771192
-  rhythmicContrast: 0.14388694590888917
+    - '#ff7f80'
+    - '#ffffff'
+    - '#ff9495'
+    - '#ffbcbc'
+    - '#ffdfdf'
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
